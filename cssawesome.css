@@ -4,7 +4,7 @@ html, body {
 }
 div {
     width: 130px;
-    height:100px;
+    height:80px;
     background-color:lightgoldenrodyellow;
     padding: 10px;
 }
@@ -13,10 +13,11 @@ div {
 h1{
     text-transform: uppercase;
     font-size: 23px;
+    line-height: 0.96;
     border: solid 2px black;
     overflow: visible;
     width:70px;
-    height: 75px;
+    height: 73px;
     padding:5px;
     padding-bottom: 0;
 }
