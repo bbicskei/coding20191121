@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab:400,700&display=swap');
+
+html, body{
+   width: 400px;
+}
+.tidbit {
+   width: 400px;
+   font-family: 'Roboto Slab', serif;
+   font-size: 16px;
+   color:#4a4a4a;
+   margin-right: 15px;
+   line-height: 1;
+}
+
+
+.title {
+   font-weight: normal;
+   font-size: 64px;
+   text-align: center;
+   margin-top: 10px;
+   margin-bottom: 70px;
+}
+
+.more a{
+   font-size: 14px;
+   line-height: 1.5;
+   color: #4a90e2;
+   margin-top: 15px;
+   text-decoration: none;
+}
+.short {
+   font-size: 36px;
+   font-weight: bold;
+   background: #ffeb3b;
+   position:relative;
+
+}
+.short p{
+   padding: 15px 70px;
+   margin-bottom: 14px;
+}
+
+.box {
+ display:inline;
+}
+
+img{
+   width: 1.5em;
+   position: absolute;
+   top:100px;
+}
+.right{
+   right:0;
+}
+.left{
+   transform: rotate(180deg);
+}
