@@ -1,0 +1,52 @@
+.css {
+    width: 300px;
+    background-color: #ffb6c1;
+    margin: 10px;
+    padding: 10px;
+}
+
+.css p {
+    font-family: "Roboto Slab";
+    font-size: 16px;
+    background-color: #f8e71c;
+    line-height: 1.4;
+    padding: 12px;
+    margin-bottom:10px;
+    height:180px;
+    border: solid 10px #f5a623;
+}
+.last {
+    margin-bottom: 0;
+}
+
+/* boxing 5.2 */
+.boxing {
+    font-family: "Roboto Slab";
+    width: 280px;
+    margin: 10px;
+    font-size: 12px;
+    line-height: 1.33;
+}
+.boxing span{
+    background-color:#ffb6c1;
+    display: inline-block;
+    padding: 3px 5px;
+    text-decoration: underline;
+    
+}
+.boxing code{
+    /*display: inline-block;
+   border-bottom:solid 1px black;*/
+   text-decoration: underline;
+    font-weight: bold;
+    line-height: 1;
+    
+}
+
+
+.boxing img {
+ height: 10px;
+}
+
+
+
